@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.vite/
+.vercel/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.local
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
