@@ -1,7 +1,7 @@
 # Telegram Chat через GREEN-API
 
 Тестовое задание на React: интерфейс чата для отправки и получения текстовых сообщений через GREEN-API.
-
+**DEMO**: https://test-in-green-api.vercel.app/
 Проект работает с Telegram-инстансом GREEN-API.
 
 ## Что реализовано
